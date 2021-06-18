@@ -1,3 +1,3 @@
 # ConvexHullVisualizer
 
-# 정보과학프로젝트
+정보과학프로젝트
