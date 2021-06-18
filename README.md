@@ -2,7 +2,7 @@
 
 정보과학프로젝트 때 만든 Convex Hull 시각화 도구
 
-모든 과정은 ‘클릭’과 ‘엔터’, ‘백스페이스’ 버튼을 통해 진행할 수 있다. 
+모든 과정은 마우스 클릭과 ‘ENTER’, 'BACKSPACE’ 버튼을 통해 진행할 수 있다. 
 
 ![image](https://user-images.githubusercontent.com/46951576/122516578-e6e6af80-d049-11eb-81f3-2000da5f17a2.png)
 ![image](https://user-images.githubusercontent.com/46951576/122516593-e9e1a000-d049-11eb-81e2-b2c7871c6358.png)
