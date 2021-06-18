@@ -2,6 +2,9 @@
 
 정보과학프로젝트 때 만든 Convex Hull 시각화 도구
 
+실행을 원하는 경우 EXE만을 다운 받아서 실행하자.
+코드는 ConvexHull_KyungmoKu 폴더를 참고. 
+
 모든 과정은 마우스 클릭과 ‘ENTER’, 'BACKSPACE’ 버튼을 통해 진행할 수 있다. 
 
 ![image](https://user-images.githubusercontent.com/46951576/122516578-e6e6af80-d049-11eb-81f3-2000da5f17a2.png)
