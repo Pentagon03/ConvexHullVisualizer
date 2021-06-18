@@ -6,6 +6,7 @@
 
 ![image](https://user-images.githubusercontent.com/46951576/122516578-e6e6af80-d049-11eb-81f3-2000da5f17a2.png)
 ![image](https://user-images.githubusercontent.com/46951576/122516593-e9e1a000-d049-11eb-81e2-b2c7871c6358.png)
+
 메인화면 - 버튼에 위에 마우스를 놓으면 빨간색으로 색깔이 변한다. 'P' 버튼을 통해 Convex Hull 생성을 자동으로 만들 수 있음
  
  ![image](https://user-images.githubusercontent.com/46951576/122516617-f1a14480-d049-11eb-9788-079b4498a3a1.png)
