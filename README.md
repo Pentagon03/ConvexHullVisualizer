@@ -21,5 +21,3 @@ Convex Hull이 생성된 상태에서도 점 추가 / 제거를 할 수 있다. 
 ![image](https://user-images.githubusercontent.com/46951576/122516631-f665f880-d049-11eb-967f-8259b49c7dc8.png)
 
 KS Preprocessing을 Enter 버튼을 통해 진행한다.
-
-TODO: p5.js로 웹 구현
